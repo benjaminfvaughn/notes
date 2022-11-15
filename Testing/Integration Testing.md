@@ -1,1 +1,1 @@
-Verify the proper operation of the 
+Verify the proper operation of the separate modules in a program.
